@@ -4,7 +4,7 @@ Dive into a world of vibrant colors with Color Blast, a visually stunning experi
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/color-blast/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/color-blast/) 🕹️
 
 ## About the Game
 
